@@ -26,14 +26,14 @@ public class PruebaArbol {
         arbol.insertarNodo(valor);
     }
 
-//    System.out.println("\n\nRecorrido preorden");
-//    arbol.recorridoPreorden();
-//
-//    System.out.println("\n\nRecorrido inorden");
-//    arbol.recorridoInorden();
-//
-//    System.out.println("\n\nRecorrido posorden");
-//    arbol.recorridoPosorden();
+    System.out.println("\n\nRecorrido preorden");
+    arbol.recorridoPreorden();
+
+    System.out.println("\n\nRecorrido inorden");
+    arbol.recorridoInorden();
+
+    System.out.println("\n\nRecorrido posorden");
+    arbol.recorridoPosorden();
  }
 
 }
