@@ -77,6 +77,7 @@ public class Arbol {
         ayudantePosorden(nodo.nodoizquierdo);
         ayudantePosorden(nodo.nododerecho);
         System.out.print(nodo.datos + " ");
+        //
     }
     
 }
